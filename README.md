@@ -2,6 +2,7 @@
 
 
 | Rank | Project | Language | Score |
+|:----:|:-------:|:--------:|:-----:|
 | 00 | https://github.com/mdoll02/libft | C | [![mdoll's 42 Libft Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2911796)](https://github.com/JaeSeoKim/badge42) |
 
 
