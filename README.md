@@ -4,6 +4,7 @@
 | Rank | Project | Language | Score |
 |:----:|:-------:|:--------:|:-----:|
 | 00 | https://github.com/mdoll02/libft | C | [![mdoll's 42 Libft Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2911796)](https://github.com/JaeSeoKim/badge42) |
+| 01 | https://github.com/mdoll02/printf | C | [![mdoll's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2923993)](https://github.com/JaeSeoKim/badge42) |
 
 
 |#### Pipex|[![mdoll's 42 pipex Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2956876)](https://github.com/JaeSeoKim/badge42)
@@ -15,7 +16,6 @@
 
 #### Printf:				[![mdoll's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2923993)](https://github.com/JaeSeoKim/badge42)
 
-#### Libft:					[![mdoll's 42 Libft Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2911796)](https://github.com/JaeSeoKim/badge42)
 <!--
 **mdoll02/mdoll02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
