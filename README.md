@@ -1,4 +1,5 @@
-[![mdoll's 42 stats](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/stats?cursusId=21&coalitionId=151)](https://github.com/JaeSeoKim/badge42)
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/stats?cursusId=21&coalitionId=151" alt="mdoll's 42 stats" /></a>
 
 
 | Rank | Project | Language | Score | Short summary |
