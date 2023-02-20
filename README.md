@@ -1,5 +1,9 @@
 [![mdoll's 42 stats](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/stats?cursusId=21&coalitionId=151)](https://github.com/JaeSeoKim/badge42)
 
+All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://42wolfsburg.de/)
+and were written according to the [Norm](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf) wich is enforced by a program called [Norminette](https://github.com/42School/norminette).
+
+
 | Rank | Project | Language | Score | Short summary |
 |:----:|:-------:|:--------:|:-----:|:-------------:|
 | 00 | [libft](https://github.com/mdoll02/libft) | C | [![mdoll's 42 Libft Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2911796)](https://github.com/JaeSeoKim/badge42) | Creating our own libary using standart C functions and a few additional functions |
