@@ -2,11 +2,11 @@
 
 All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://42wolfsburg.de/) and were written according to the [Norm](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf), which is enforced by a program called [Norminette](https://github.com/42School/norminette).
 
-The first three projects were evaluated by a program called Moulinette and other students. After that programs are only evaluated by other students.
+The first three projects were evaluated by a program called Moulinette and other students. After that, programs are only evaluated by other students.
 
 | Rank | Project | Language | Score | Short summary |
 |:----:|:-------:|:--------:|:-----:|:-------------:|
-| 00 | [libft](https://github.com/mdoll02/libft) | C | [![mdoll's 42 Libft Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2911796)](https://github.com/JaeSeoKim/badge42) | Creating our own libary using standart C functions and a few additional functions |
+| 00 | [libft](https://github.com/mdoll02/libft) | C | [![mdoll's 42 Libft Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2911796)](https://github.com/JaeSeoKim/badge42) | Creating our own library using standard C functions and a few additional functions |
 | 01 | [printf](https://github.com/mdoll02/printf) | C | [![mdoll's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2923993)](https://github.com/JaeSeoKim/badge42) | Replicating the C function printf |
 | 01 | [get_next_line](https://github.com/mdoll02/get_next_line) | C | [![mdoll's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2923738)](https://github.com/JaeSeoKim/badge42) | Creating a function that returns always one line from a given file descriptor |
 | 01 | Born2beroot | -- | [![mdoll's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2923729)](https://github.com/JaeSeoKim/badge42) | Creating our first virtual machine using Debian |
