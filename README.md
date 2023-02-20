@@ -5,7 +5,7 @@
 |:----:|:-------:|:--------:|:-----:|
 | 00 | https://github.com/mdoll02/libft | C | [![mdoll's 42 Libft Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2911796)](https://github.com/JaeSeoKim/badge42) |
 | 01 | https://github.com/mdoll02/printf | C | [![mdoll's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2923993)](https://github.com/JaeSeoKim/badge42) |
-| 01 | get_next_line | C | [![mdoll's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2923738)](https://github.com/JaeSeoKim/badge42) |
+| 01 | [get_next_line](https://github.com/mdoll02/get_next_line) | C | [![mdoll's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2923738)](https://github.com/JaeSeoKim/badge42) |
 | 01 | Born2beroot | -- | [![mdoll's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2923729)](https://github.com/JaeSeoKim/badge42) |
 
 |#### Pipex|[![mdoll's 42 pipex Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2956876)](https://github.com/JaeSeoKim/badge42)
