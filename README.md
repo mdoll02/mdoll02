@@ -2,8 +2,6 @@
 
 All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://42wolfsburg.de/) and were written according to the [Norm](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf), which is enforced by a program called [Norminette](https://github.com/42School/norminette).
 
-The first three projects were evaluated by a program called Moulinette and other students. After that, programs are only evaluated by other students.
-
 | Rank | Project | Language | Score | Short summary |
 |:----:|:-------:|:--------:|:-----:|:-------------:|
 | 00 | [libft](https://github.com/mdoll02/libft) | C | [![mdoll's 42 Libft Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2911796)](https://github.com/JaeSeoKim/badge42) | Creating our own library using standard C functions and a few additional functions |
