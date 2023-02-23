@@ -17,7 +17,7 @@ The first three projects were evaluated by a program called Moulinette and other
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdoll02&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdoll0&theme=vue-dark2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdoll02&theme=vue-dark2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mdoll02/mdoll02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
