@@ -13,7 +13,7 @@ The first three projects were evaluated by a program called Moulinette and other
 | 02 | Exam Rank 02 | C | [![mdoll's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2931649)](https://github.com/JaeSeoKim/badge42) | Exam containing tasks from libft and the Piscine |
 | 02 | [fract-ol](https://github.com/mdoll02/fract-ol) | C | [![mdoll's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2931648)](https://github.com/JaeSeoKim/badge42) | Getting to know the [MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx) and displaying different fractal sets |
 | 02 | [pipex](https://github.com/mdoll02/pipex)| C | [![mdoll's 42 pipex Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2956876)](https://github.com/JaeSeoKim/badge42) | Getting to know the concept of pipes and child / parent processes |
-| 02 | [push_swap](https://github.com/mdoll02/push_swap) | C | [![mdoll's 42 push_swap Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2932540)](https://github.com/JaeSeoKim/badge42) | Creating a program that displays actions that will sort a stack in the fastest way |
+| 02 | [push_swap](https://github.com/mdoll02/push_swap) | C | [![mdoll's 42 push_swap Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2932540)](https://github.com/JaeSeoKim/badge42) | Creating a program that displays actions that will sort a stack of integers |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdoll02&show_icons=true&theme=vue-dark)
 
