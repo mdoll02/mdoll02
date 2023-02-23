@@ -16,6 +16,7 @@ The first three projects were evaluated by a program called Moulinette and other
 | 02 | [push_swap](https://github.com/mdoll02/push_swap) | C | [![mdoll's 42 push_swap Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2932540)](https://github.com/JaeSeoKim/badge42) | Creating a program that displays actions that will sort a stack in the fastest way |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdoll02&show_icons=true&theme=vue-dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdoll02)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
