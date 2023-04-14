@@ -13,7 +13,7 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https:/
 | 02 | [pipex](https://github.com/mdoll02/pipex)| C | [![mdoll's 42 pipex Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2956876)](https://github.com/JaeSeoKim/badge42) | Getting to know the concept of pipes and child / parent processes |
 | 02 | [push_swap](https://github.com/mdoll02/push_swap) | C | [![mdoll's 42 push_swap Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2932540)](https://github.com/JaeSeoKim/badge42) | Creating a program that displays actions that will sort a stack of integers |
 | 03 | [minishell](https://github.com/mdoll02/minishell)| C | [![mdoll's 42 minishell Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3023646)](https://github.com/JaeSeoKim/badge42) | Creating our own Shell modeled after Bash |
-| 03 | [Philosopher](https://github.com/mdoll02/philosophers) | C | 0% | Project about solving the Philosopher-Problem with the help of threads and mutexes |
+| 03 | [Philosophers](https://github.com/mdoll02/philosophers) | C | 0% | Project about solving the Philosopher-Problem with the help of threads and mutexes |
 | 03 | Exam Rank 03 | C | 0% | Exam containing ether get_next_line or printf |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdoll02&show_icons=true&theme=vue-dark)
