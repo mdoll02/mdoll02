@@ -15,6 +15,9 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https:/
 | 03 | [minishell](https://github.com/mdoll02/minishell)| C | [![mdoll's 42 minishell Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3023646)](https://github.com/JaeSeoKim/badge42) | Creating our own Shell modeled after Bash |
 | 03 | [Philosophers](https://github.com/mdoll02/philosophers) | C | [![mdoll's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3054991)](https://github.com/JaeSeoKim/badge42) | Project about solving the Philosopher-Problem with the help of threads and mutexes |
 | 03 | Exam Rank 03 | C | [![mdoll's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3061755)](https://github.com/JaeSeoKim/badge42) | Exam containing ether get_next_line or printf |
+| 04 | MiniRt | C | [![mdoll's 42 miniRT Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3080054)](https://github.com/JaeSeoKim/badge42) | Building our own mini ray tracer |
+| 04 | NetPractice | -- | [![mdoll's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3109056)](https://github.com/JaeSeoKim/badge42) | Introduction into networking |
+| 04 | CPP 00 | C++ | [![mdoll's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3142350)](https://github.com/JaeSeoKim/badge42) | Learning c++ |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdoll02&show_icons=true&theme=vue-dark)
 
