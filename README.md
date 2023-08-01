@@ -1,6 +1,6 @@
 [![mdoll's 42 stats](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/stats?cursusId=21&coalitionId=355)](https://github.com/JaeSeoKim/badge42)
 
-All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://42wolfsburg.de/) and were written according to the [Norm](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf), which is enforced by a program called [Norminette](https://github.com/42School/norminette).
+All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://42wolfsburg.de/) and all C projects are written according to the [Norm](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf), which is enforced by a program called [Norminette](https://github.com/42School/norminette).
 
 |  Rank  | Project | Language | Score | Short summary |
 |:------:|:-------:|:----:|:-----:|:-------------:|
