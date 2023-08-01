@@ -17,7 +17,12 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https:/
 | 03 | Exam Rank 03 | C | [![mdoll's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3061755)](https://github.com/JaeSeoKim/badge42) | Exam containing ether get_next_line or printf |
 | 04 | [MiniRt](https://github.com/mdoll02/minirt) | C | [![mdoll's 42 miniRT Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3080054)](https://github.com/JaeSeoKim/badge42) | Building our own mini ray tracer |
 | 04 | NetPractice | -- | [![mdoll's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3109056)](https://github.com/JaeSeoKim/badge42) | Introduction into networking |
-| 04 | [CPP 00](https://github.com/mdoll02/cpp-00) | C++ | [![mdoll's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3142350)](https://github.com/JaeSeoKim/badge42) | Learning c++ |
+| 04 | [CPP 00](https://github.com/mdoll02/cpp-00) | C++ | [![mdoll's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3142350)](https://github.com/JaeSeoKim/badge42) | Classes, member functions, initialization lists and some other basic stuff |
+| 04 | [CPP 01](https://github.com/mdoll02/cpp-01) | C++ | [![mdoll's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3169798)](https://github.com/JaeSeoKim/badge42) | Memory allocation, pointers to members, references, switch statement |
+| 04 | [CPP 02](https://github.com/mdoll02/cpp-02) | C++ | [![mdoll's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3192270)](https://github.com/JaeSeoKim/badge42) | polymorphism, operator overloading and Orthodox Canonical class form |
+| 04 | [CPP 03](https://github.com/mdoll02/cpp-03) | C++ | [![mdoll's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3202394)](https://github.com/JaeSeoKim/badge42) | Inheritance |
+| 04 | [CPP 04](https://github.com/mdoll02/cpp-04) | C++ | [![mdoll's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3208754)](https://github.com/JaeSeoKim/badge42) | Subtype polymorphism, abstract classes |
+| 04 | Exam Rank 04 | C | [![mdoll's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3173889)](https://github.com/JaeSeoKim/badge42) | Exam about a much smaller version of Minishell |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdoll02&show_icons=true&theme=vue-dark)
 
