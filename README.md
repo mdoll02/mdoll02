@@ -23,6 +23,7 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https:/
 | 04 | [CPP 03](https://github.com/mdoll02/cpp-03) | C++ | [![mdoll's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3202394)](https://github.com/JaeSeoKim/badge42) | Inheritance |
 | 04 | [CPP 04](https://github.com/mdoll02/cpp-04) | C++ | [![mdoll's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3208754)](https://github.com/JaeSeoKim/badge42) | Subtype polymorphism, abstract classes |
 | 04 | Exam Rank 04 | C | [![mdoll's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3173889)](https://github.com/JaeSeoKim/badge42) | Exam about a much smaller version of Minishell |
+| 05 | [Ft_Irc](https://github.com/mdoll02/ircserv) | C++ | --- | Build an Irc-Server in C++ |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdoll02&show_icons=true&theme=vue-dark)
 
