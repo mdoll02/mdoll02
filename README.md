@@ -2,8 +2,14 @@
 
 
 ![image](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white) 
+
+
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+
+
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 
 
 [![mdoll's 42 stats](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/stats?cursusId=21&coalitionId=355)](https://github.com/JaeSeoKim/badge42)
