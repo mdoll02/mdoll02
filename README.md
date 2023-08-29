@@ -1,6 +1,13 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdoll02&show_icons=true&theme=vue-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdoll02)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 [![mdoll's 42 stats](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/stats?cursusId=21&coalitionId=355)](https://github.com/JaeSeoKim/badge42)
 
-All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://42wolfsburg.de/) and all C projects are written according to the [Norm](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf), which is enforced by a program called [Norminette](https://github.com/42School/norminette).
+All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://42wolfsburg.de/)
 
 |  Rank  | Project | Language | Score | Short summary |
 |:------:|:-------:|:----:|:-----:|:-------------:|
@@ -25,9 +32,6 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https:/
 | 04 | Exam Rank 04 | C | [![mdoll's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/3173889)](https://github.com/JaeSeoKim/badge42) | Exam about a much smaller version of Minishell |
 | 05 | [Ft_Irc](https://github.com/mdoll02/ircserv) | C++ | --- | Build an Irc-Server in C++ |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdoll02&show_icons=true&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdoll02)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mdoll02/mdoll02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
