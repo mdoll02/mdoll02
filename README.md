@@ -1,4 +1,4 @@
-# Anurag's 42 Wolfsburg Projects
+# Mdoll's 42 Wolfsburg Projects
 
 Welcome to my GitHub profile! I'm currently studying at [42 Wolfsburg](https://42wolfsburg.de/), and here are some of the projects I've worked on as part of the Core-Curriculum.
 
