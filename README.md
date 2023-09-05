@@ -15,7 +15,7 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https:/
 
 |  Rank  | Project | Language | Score | Short summary |
 |:------:|:-------:|:----:|:-----:|:-------------:|
-| 00 | [libft](https://github.com/mdoll02/libft)                 | C | ![Score](https://img.shields.io/badge/100%2F100-4CAF50)| Creating our own library using standard C functions and a few additional functions |
+| 00 | [libft](https://github.com/mdoll02/libft)                 | ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  | ![Score](https://img.shields.io/badge/100%2F100-4CAF50)| Creating our own library using standard C functions and a few additional functions |
 | 01 | [printf](https://github.com/mdoll02/printf)               | C | ![Score](https://img.shields.io/badge/100%2F100-4CAF50) | Replicating the C function printf |
 | 01 | [get_next_line](https://github.com/mdoll02/get_next_line) | C | ![Score](https://img.shields.io/badge/125%2F100-4CAF50) | Creating a function that returns always one line from a given file descriptor |
 | 01 | Born2beroot                                               | -- | ![Score](https://img.shields.io/badge/110%2F100-4CAF50) | Creating our first virtual machine using Debian |
