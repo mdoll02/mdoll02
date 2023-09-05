@@ -15,7 +15,7 @@ All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https:/
 
 |  Rank  | Project | Language | Score | Short summary |
 |:------:|:-------:|:----:|:-----:|:-------------:|
-| 00 | [libft](https://github.com/mdoll02/libft) | C | ![Libft Score](https://img.shields.io/badge/100%2F100-4CAF50) | Creating our own library using standard C functions and a few additional functions |
+| 00 | [libft](https://github.com/mdoll02/libft) | C | <h2 style="font-size: 24px;">Libft Score: 100/100</h2> | Creating our own library using standard C functions and a few additional functions |
 | 01 | [printf](https://github.com/mdoll02/printf) | C | [![mdoll's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2923993)](https://github.com/JaeSeoKim/badge42) | Replicating the C function printf |
 | 01 | [get_next_line](https://github.com/mdoll02/get_next_line) | C | [![mdoll's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2923738)](https://github.com/JaeSeoKim/badge42) | Creating a function that returns always one line from a given file descriptor |
 | 01 | Born2beroot | -- | [![mdoll's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/project/2923729)](https://github.com/JaeSeoKim/badge42) | Creating our first virtual machine using Debian |
