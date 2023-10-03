@@ -1,6 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdoll02&show_icons=true&theme=vue-dark) 
-
-
 [![mdoll's 42 stats](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/stats?cursusId=21&coalitionId=355)](https://github.com/JaeSeoKim/badge42)
 
 All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://42wolfsburg.de/)
