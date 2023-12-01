@@ -1,4 +1,4 @@
-[![mdoll's 42 stats](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/stats?cursusId=21&coalitionId=355)](https://github.com/JaeSeoKim/badge42)
+[[![mdoll's 42 stats](https://badge42.vercel.app/api/v2/clcm1oigm00110fmeb8uvag2t/stats?cursusId=21&coalitionId=355)](https://github.com/JaeSeoKim/badge42)](https://badge42.coday.fr/api/v2/clpmhu74t142201t6bl2f66z8/stats?cursusId=21&coalitionId=355)
 
 All of these projects are part of the Core-Curriculum of [42 Wolfsburg](https://42wolfsburg.de/)
 
